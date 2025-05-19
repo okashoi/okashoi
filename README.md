@@ -1,4 +1,4 @@
-[Blog](https://blog.okashoi.net/) / [Twitter](https://twitter.com/okashoi) / [Slides](https://www.slideshare.net/ShoheiOkada)
+[Blog](https://blog.okashoi.net/) / [X](https://x.com/okashoi) / [Slides](https://speakerdeck.com/okashoi)
 
 ![okashoi's github stats](https://github-readme-stats.vercel.app/api?username=okashoi&count_private=true&show_icons=true)
 
